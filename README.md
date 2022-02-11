@@ -11,7 +11,7 @@
         <br>- Phone: (512) 767-5662
 
 Also check out my coffee shop based in Horseshoe Bay, TX at www.kyndacoffee.com for some fresh roasted organic specialty coffee.
-        <br>- Reach out for a free sample!
+        <br>    - Reach out for a free sample!
 
 
 If you have any suggestions on what to learn, or upcoming technologies I would love to hear about them!

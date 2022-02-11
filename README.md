@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on any projects involving software development, A11y, Blender, or learning something new!
 
 - 📫 How to reach me:
-        - email: jpkorstad@gmail.com
-        - Phone: (512) 767-5662
+        <br>- email: jpkorstad@gmail.com
+        <br>- Phone: (512) 767-5662
 
 Also check out my coffee shop based in Horseshoe Bay, TX at www.kyndacoffee.com for some fresh roasted organic specialty coffee.
         - Reach out for a free sample!

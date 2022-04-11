@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in software development and web accessibility; or helping create something that will help progress global knowledge and utility.
 
-- 🌱 I’m currently learning back-end development, blender/USD, Python and more.
+- 🌱 I’m currently learning React Native, development, blender/Unity, Python and more.
 
 - 💞️ I’m looking to collaborate on any projects involving software development, A11y, Blender, or learning something new!
 

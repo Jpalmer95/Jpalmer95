@@ -1,6 +1,5 @@
 Hi, I’m Jonathan Korstad @Jpalmer95
 
-A little bit about me:
        
 I'm a Senior Accessibility Analyst at VISA with a passion for technology and making the digital world more accessible for all.
 

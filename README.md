@@ -1,11 +1,14 @@
 Hi, I’m Jonathan Korstad @Jpalmer95
 
 A little bit about me:
-        I worked my way through college and graduated completey debt free (worked 3 jobs to pay my own way through) from Texas A&M University. After college I opened a coffee shop, and pursued my passion as atechnologist. I am a Senior Accessibility Analyst at VISA. I also love learning anything related to AI/ML/DL, Game Development, and of course digital A11y!
+       
+I'm a Senior Accessibility Analyst at VISA with a passion for technology and making the digital world more accessible for all.
 
-I’m interested in: machine learning, game development and web accessibility; or helping create something!
+I worked my way through college and graduated debt-free from Texas A&M University, all while working three jobs. After graduation, I pursued my hobbyist love for technology and continued honing my skills as a technologist.
 
-I’m looking to collaborate on any projects involving AI/ML/DL, Accessibility, software development, or game development!
+I'm always eager to learn new things, especially related to AI/ML/DL, game development, and the future of digital accessibility. So, if you're working on anything related to AI/ML/DL, software development, game development, or web accessibility, I'd love to collaborate with you! Let's work together to create something meaningful and impactful.
+
+It's great to meet you!
 
 How to reach me:
         <br>- Email: jpkorstad@gmail.com

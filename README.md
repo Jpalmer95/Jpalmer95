@@ -12,7 +12,7 @@ It's great to meet you!
 How to reach me:
         <br>- Email: jpkorstad@gmail.com
         <br>- Phone: (512) 767-5662
-        <br>- Linkedin: https://www.linkedin.com/in/jonathan-korstad-cpwa-906612104/
+        <br>- Linkedin: https://www.linkedin.com/in/jkorstad/
 
 Check out my coffee shop Kynda Coffee based in Texas at www.kyndacoffee.com for some fresh roasted organic specialty coffee.
         <br>- Reach out for a free sample!

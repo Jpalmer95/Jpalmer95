@@ -5,7 +5,7 @@ I'm a Senior Accessibility Analyst & AI Solutions Engineer at VISA with a passio
 
 I worked my way through college and graduated debt-free from Texas A&M University, all while working three jobs. After graduation, I pursued my hobbyist love for technology and continued honing my skills as a technologist. I also founded a coffee shop, Kynda Coffee. I recently completed my Post graduate program in Artificial Intelligence at UT Austin as well as 20+ other AIML certs and continue learning every day, especially within the great cross industry communities that you find on X and Hugging Face!
 
-I'm a continuous learner, currently learning anything related to AI/ML/DL (All Modalities), Reinforcement Learning, game development, and the future of digital technologies. So, if you're working on anything related to AI/ML/DL, developing something cool, game development, digital accessibility, or anything else for that matter (Cross disciplinary work is always a good time!), I'd love to collaborate with you! Let's work together to create something awesome.
+I'm a continuous learner, currently focused on anything related to AI/ML/DL (All Modalities), Reinforcement Learning, game development, and the future of digital technologies. So, if you're working on anything related to AI/ML/DL, developing something cool, game development, digital accessibility, or anything else for that matter (Cross disciplinary work is always a good time!), I'd love to collaborate with you! Let's work together to create something awesome.
 
 
 How to reach me:

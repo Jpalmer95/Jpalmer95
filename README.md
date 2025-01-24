@@ -7,6 +7,8 @@ I worked my way through college and graduated debt-free from Texas A&M Universit
 
 I'm a continuous learner, currently focused on anything related to AI/ML/DL (All Modalities), Reinforcement Learning, game development, and the future of digital technologies. So, if you're working on anything related to AI/ML/DL, developing something cool, game development, digital accessibility, or anything else for that matter (Cross disciplinary work is always a good time!), I'd love to collaborate with you! Let's work together to create something awesome.
 
+View various Notebooks/projects that I've worked on throughout various courses or while exploring different topics at: https://gist.github.com/Jpalmer95
+
 
 How to reach me:
         <br>- Email: jpkorstad@gmail.com

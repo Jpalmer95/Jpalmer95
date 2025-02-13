@@ -11,6 +11,7 @@ View Notebooks/projects that I've worked on throughout courses, side projects, o
 
 
 How to reach me:
+        <br>- Website: https://jpalmer95.github.io/
         <br>- Email: jpkorstad@gmail.com
         <br>- Phone: (512) 767-5662
         <br>- X: https://x.com/JonathanKorstad

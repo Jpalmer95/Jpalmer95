@@ -18,6 +18,8 @@ How to reach me:
         <br>- HF: https://huggingface.co/jkorstad
         <br>- Linkedin: https://www.linkedin.com/in/jkorstad/
 
+buymeacoffee.com/jkorstad
+
 Check out Kynda Coffee based in Texas at www.kyndacoffee.com for some fresh roasted organic specialty coffee.
 
 

@@ -7,7 +7,7 @@ I worked my way through college and graduated debt-free from Texas A&M Universit
 
 I'm a continuous learner, currently focused on anything related to AI/ML/DL (All Modalities), Reinforcement Learning, game development, and the future of digital technologies. So, if you're working on anything related to AI/ML/DL, developing something cool, game development, digital accessibility, or anything else for that matter (Cross disciplinary work is always a good time!), I'd love to collaborate with you! Let's work together to create something awesome.
 
-Recently built MenuMetrics.org for advanced menu, recipe, and inventory calculations, tracking, and pricing to help small businesses or anyone with ingredients thrive. Free to use with Paid additional AI native features and even a managed plan for full inventory upload and management for the busy business owner.
+Recently built https://MenuMetrics.org for advanced menu, recipe, and inventory calculations, tracking, and pricing to help small businesses or anyone with ingredients thrive. Free to use with Paid additional AI native features and even a managed plan for full inventory upload and management for the busy business owner.
 
 View Notebooks/projects that I've worked on throughout courses, side projects, or while exploring different topics at: https://gist.github.com/Jpalmer95
 

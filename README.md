@@ -19,7 +19,7 @@ Currently, I serve as a Senior Accessibility Analyst and AI Software Engineer at
 * ☕ **[Kynda Coffee](https://www.kyndacoffee.com)**
     A self-funded specialty coffee roastery I founded in 2019. I developed custom software for inventory tracking and operational automation while roasting fresh organic specialty coffee based right here in Texas.
 * 🎮 **[SuperSonic](https://jpalmer95.github.io/SuperSonic/)**
-    A fun web-based game project I built. Give it a play!
+    A fun web-based game project I built. Give it a play! (Requires VR to play, however you can still queue and listen to music in the pre-game menu).
 * 🤖 **[Reinforcement Learning & Custom AI Agents](https://gist.github.com/Jpalmer95)**
     Honors-level projects for the Hugging Face Deep RL Course (including LunarLander, Multi-agent Soccer Duos, and VizDOOM) and custom AI agent systems built with Smolagents and LangChain. View my notebooks and project gists [here](https://gist.github.com/Jpalmer95).
 

@@ -1,28 +1,58 @@
-Hi, I’m Jonathan Korstad @Jpalmer95
+# Hi there, I'm Jonathan Korstad (@Jpalmer95) 👋
 
-       
-I'm a Senior Accessibility Analyst & AI Solutions Engineer at VISA with a passion for technology and making the digital world more robust, accessible, and hopefully enjoyable for all!
+**Senior Accessibility Analyst & AI Engineer | CPWA | Entrepreneur**
 
-I worked my way through college and graduated debt-free from Texas A&M University, all while working three jobs. After graduation, I pursued my hobbyist love for technology and continued honing my skills as a technologist. I also founded a coffee shop, Kynda Coffee. I recently completed my Post graduate program in Artificial Intelligence at UT Austin as well as 20+ other AIML certs and continue learning every day, especially within the great cross industry communities that you find on X and Hugging Face!
+I am a results-driven AI Engineer with expertise in developing scalable AI agents and bridging the gap between digital accessibility and artificial intelligence. My work focuses on building intelligent systems using deep reinforcement learning and frameworks like LangChain and Smolagents to streamline operations and resolve complex queries. 
 
-I'm a continuous learner, currently focused on anything related to AI/ML/DL (All Modalities), Reinforcement Learning, game development, and the future of digital technologies. So, if you're working on anything related to AI/ML/DL, developing something cool, game development, digital accessibility, or anything else for that matter (Cross disciplinary work is always a good time!), I'd love to collaborate with you! Let's work together to create something awesome.
+With a background spanning technology, healthcare, and construction, I bring a unique, cross-functional perspective to solving complex problems. I worked my way through college and graduated debt-free from Texas A&M University while juggling three jobs. Since then, I've completed a Post-graduate program in AI & Machine Learning at UT Austin, alongside 20+ other AIML certifications, and continue learning every day in communities like Hugging Face and X!
 
-Recently built https://MenuMetrics.org for advanced menu, recipe, and inventory calculations, tracking, and pricing to help small businesses or anyone with ingredients thrive. Free to use with Paid additional AI native features and even a managed plan for full inventory upload and management for the busy business owner.
+Currently, I serve as a Senior Accessibility Analyst and AI Software Engineer at **Visa**, where I lead global design and engineering teams to integrate accessibility into the product lifecycle. I am also the proud founder of **Kynda Coffee**.
 
-View Notebooks/projects that I've worked on throughout courses, side projects, or while exploring different topics at: https://gist.github.com/Jpalmer95
+---
 
+### 🚀 Featured Projects
 
-How to reach me:
-        <br>- Website: https://jpalmer95.github.io/
-        <br>- Email: jpkorstad@gmail.com
-        <br>- Phone: (512) 767-5662
-        <br>- X: https://x.com/JonathanKorstad
-        <br>- HF: https://huggingface.co/jkorstad
-        <br>- Linkedin: https://www.linkedin.com/in/jkorstad/
+* 🍽️ **[MenuMetrics.org](https://MenuMetrics.org)**
+    A powerful platform designed to help small business owners, restaurants, coffee shops, and hospitality businesses gain deep insights into their ingredients, recipes, and pricing. It features advanced calculations for precise costing, full inventory management, and native AI Agents to assist with business strategy. *Free to use with paid AI plans!*
+* 🧠 **[SynapseJourney.org](https://synapsejourney.org/)**
+    *The Open Source Learning Platform.* A project dedicated to making learning, education, and development tools more open-source and accessible. 
+* ☕ **[Kynda Coffee](https://www.kyndacoffee.com)**
+    A self-funded specialty coffee roastery I founded in 2019. I developed custom software for inventory tracking and operational automation while roasting fresh organic specialty coffee based right here in Texas.
+* 🎮 **[SuperSonic](https://jpalmer95.github.io/SuperSonic/)**
+    A fun web-based game project I built. Give it a play!
+* 🤖 **[Reinforcement Learning & Custom AI Agents](https://gist.github.com/Jpalmer95)**
+    Honors-level projects for the Hugging Face Deep RL Course (including LunarLander, Multi-agent Soccer Duos, and VizDOOM) and custom AI agent systems built with Smolagents and LangChain. View my notebooks and project gists [here](https://gist.github.com/Jpalmer95).
 
-buymeacoffee.com/jkorstad
+---
 
-Check out Kynda Coffee based in Texas at www.kyndacoffee.com for some fresh roasted organic specialty coffee.
+### 💡 Current Focus & Interests
+Deep Reinforcement Learning (Online/Offline) • Generative 3D & Multimodal Models • Generative Audio Training • Digital Accessibility • AI Agents • Computer Vision • XR • Game Dev • Lifelong Learning
 
-Play SuperSonic at https://jpalmer95.github.io/SuperSonic/
+### 🛠️ Technical Skills
 
+* **AI & Machine Learning:** PyTorch, JAX (Learning), Scikit-Learn, LangChain, Smolagents, Hugging Face Ecosystem, Generative 3D/Audio
+* **Development:** Python, C++, Flutter, React/React Native, HTML/CSS/JS, Rust (Learning)
+* **Simulators & Tools:** Unreal Engine 5, Unity, Godot, Isaac Sim, Tableau
+* **Specialties:** Digital Accessibility, Entrepreneurship, Secure Interfaces
+
+---
+
+### 🏆 Professional Highlights
+* **Visa:** Invented a novel secure PIN entry method for touch-screen interfaces, enabling independent use for unsighted users across global payment systems. Automated auditing and remediation processes using AI tools for large-scale code analysis.
+* **Continuous Education:** UT Austin Post Grad AI/ML (2024), Fast.ai / Answer.ai Deep Learning (2023-2024), Certified Professional in Web Accessibility (CPWA).
+
+---
+
+### 📫 Let's Connect!
+Cross-disciplinary work is always a good time! If you're working on AI/ML/DL (all modalities), developing something cool, game development, or digital accessibility, I'd love to collaborate with you. Let's work together to create something awesome.
+
+- 🌐 **Website:** [jpalmer95.github.io](https://jpalmer95.github.io/)
+- 📧 **Email:** jpkorstad@gmail.com
+- 📱 **Phone:** (512) 767-5662
+- 💼 **LinkedIn:** [in/jkorstad](https://www.linkedin.com/in/jkorstad/)
+- 𝕏 **X (Twitter):** [@JonathanKorstad](https://x.com/JonathanKorstad)
+- 🤗 **Hugging Face:** [jkorstad](https://huggingface.co/jkorstad)
+
+☕ *Enjoy my work? Feel free to [Buy Me A Coffee](https://buymeacoffee.com/jkorstad)!*
+☕ *Enjoy specialty coffee? Grab a fresh roasted bag of specialty organic coffee at https://www.kyndacoffee.com/shop*
+Cheers!

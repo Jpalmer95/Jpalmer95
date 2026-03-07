@@ -12,16 +12,22 @@ Currently, I serve as a Senior Accessibility Analyst and AI Software Engineer at
 
 ### 🚀 Featured Projects
 
+* ⚡ **Agent Oracle Data Network**
+  A high-performance, real-time data oracle built in Rust, engineered specifically to serve autonomous AI agents. By monitoring high-volatility data niches—like Cloud compute pricing and GPU spot markets—the oracle provides sub-millisecond access to structured data. It features native Lightning Network integration via the L402 Protocol, allowing headless AI agents and developer scripts to dynamically purchase the exact data they need in real-time using Bitcoin microtransactions.
+* 🛠️ **[LVL-2-Rogue](https://huggingface.co/spaces/jkorstad/LVL-2-Rogue)**
+  A comprehensive daggr workflow Hugging Face Space that unifies text-to-image, image-to-3D, image-to-video, music generation, text-to-speech (TTS), and voice cloning into one streamlined platform.
+* ⚙️ **[GodotHub.org](https://godothub.org)**
+  An optimized platform for discovering, organizing, and bundling Godot plugins, templates, and demos. Users can create custom toolbelt collections that package directly into a Godot project zip file with the assets already in the correct folders. It streamlines the management of shareable, fully customizable game and 3D experience starter packs, complete with a community-driven rating system to easily surface the best tools.
 * 🍽️ **[MenuMetrics.org](https://MenuMetrics.org)**
-    A powerful platform designed to help small business owners, restaurants, coffee shops, and hospitality businesses gain deep insights into their ingredients, recipes, and pricing. It features advanced calculations for precise costing, full inventory management, and native AI Agents to assist with business strategy. *Free to use with paid AI plans!*
+  A powerful platform designed to help small business owners, restaurants, coffee shops, and hospitality businesses gain deep insights into their ingredients, recipes, and pricing. It features advanced calculations for precise costing, full inventory management, and native AI Agents to assist with business strategy. *Free to use with paid AI plans!*
 * 🧠 **[SynapseJourney.org](https://synapsejourney.org/)**
-    *The Open Source Learning Platform.* A project dedicated to making learning, education, and development tools more open-source and accessible. 
+  *The Open Source Learning Platform.* A project dedicated to making learning, education, and development tools more open-source and accessible.
 * ☕ **[Kynda Coffee](https://www.kyndacoffee.com)**
-    A self-funded specialty coffee roastery I founded in 2019. I developed custom software for inventory tracking and operational automation while roasting fresh organic specialty coffee based right here in Texas.
+  A self-funded specialty coffee roastery I founded in 2019. I developed custom software for inventory tracking and operational automation while roasting fresh organic specialty coffee based right here in Texas.
 * 🎮 **[SuperSonic](https://jpalmer95.github.io/SuperSonic/)**
-    A fun web-based game project I built. Give it a play! (Requires VR to play, however you can still queue and listen to music in the pre-game menu).
+  A fun web-based game project I built. Give it a play! (Requires VR to play, however you can still queue and listen to music in the pre-game menu).
 * 🤖 **[Reinforcement Learning & Custom AI Agents](https://gist.github.com/Jpalmer95)**
-    Honors-level projects for the Hugging Face Deep RL Course (including LunarLander, Multi-agent Soccer Duos, and VizDOOM) and custom AI agent systems built with Smolagents and LangChain. View my notebooks and project gists [here](https://gist.github.com/Jpalmer95).
+  Honors-level projects for the Hugging Face Deep RL Course (including LunarLander, Multi-agent Soccer Duos, and VizDOOM) and custom AI agent systems built with Smolagents and LangChain. View my notebooks and project gists [here](https://gist.github.com/Jpalmer95).
 
 ---
 

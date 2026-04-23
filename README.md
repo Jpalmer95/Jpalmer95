@@ -1,69 +1,68 @@
-# Hi there, I'm Jonathan Korstad (@Jpalmer95) 👋
+<div align="center">
 
-🌐 **Website:** [jpalmer95.github.io](https://jpalmer95.github.io/)
+# Jonathan Korstad, CPWA
+### Senior Accessibility Analyst & AI Engineer @ Visa | Founder @ Kynda Coffee
 
-**Senior Accessibility Analyst | AI Engineer | Entrepreneur**
+[![Website](https://img.shields.io/badge/Portfolio-jpalmer95.github.io-8b5cf6?style=flat-square&logo=github)](https://jpalmer95.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathankorstad-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonathankorstad)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-jkorstad-ffbd59?style=flat-square&logo=huggingface)](https://huggingface.co/jkorstad)
 
-I am a results-driven AI Engineer with expertise in developing scalable AI agents and bridging the gap between digital accessibility and artificial intelligence. My work focuses on building intelligent systems using deep reinforcement learning and frameworks like LangChain and Smolagents to streamline operations and resolve complex queries.
+**Austin, TX** · CPWA Certified · Post Grad AI/ML @ UT Austin
 
-With a background spanning technology, healthcare, and construction, I bring a unique, cross-functional perspective to solving complex problems. I worked my way through college and graduated debt-free from Texas A&M University while juggling three jobs. Since then, I've completed a Post-graduate program in AI & Machine Learning at UT Austin, alongside 20+ other AIML certifications, and continue learning every day in communities like Hugging Face and X!
-
-Currently, I serve as a **Senior Accessibility Analyst & AI Software Engineer at Visa**, where I lead global design and engineering teams to integrate accessibility into the product lifecycle. I am also the proud founder of **[Kynda Coffee](https://www.kyndacoffee.com)**, where my entrepreneurial spirit meets my passion for specialty coffee.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **ForgeDNA** | AI-native game design platform. JSON schema → 17-agent pipeline → playable game. MCP-native. | [GitHub](https://github.com/Jpalmer95/ForgeDNA) · [HF Space](https://huggingface.co/spaces/jkorstad/forgedna-hub) |
-| **GetFreeQuote** | Industry-agnostic marketplace connecting clients with vendors for competitive quotes. | [GitHub](https://github.com/Jpalmer95/GetFreeQuote-UpWork-) |
-| **MenuMetrics** | Recipe cost analysis, inventory tracking, and AI strategy for restaurants & coffee shops. | [GitHub](https://github.com/Jpalmer95/MenuMetrics) · [Live](https://menumetrics.org) |
-| **SynapseJourney** | Open-source adaptive learning platform with WebGPU TTS, SRS, and interactive sandboxes. | [GitHub](https://github.com/Jpalmer95/SynapseJourney) · [Live](https://synapsejourney.org) |
-| **LVL-2-Rogue** | Unified generative AI pipeline on Hugging Face (image, 3D, video, music, TTS, voice cloning). | [HF Space](https://huggingface.co/spaces/jkorstad/LVL-2-Rogue) |
-| **SuperSonic** | Immersive WebXR VR game with curated music system. | [GitHub](https://github.com/Jpalmer95/SuperSonic) |
-| **Kynda Coffee** | Specialty coffee roastery with custom e-commerce, POS, and AI design studio. | [Website](https://www.kyndacoffee.com) |
-| **Coffee-Course** | Open-source masterclass on coffee, customer service, and hospitality. | [GitHub](https://github.com/Jpalmer95/Coffee-Course) |
+</div>
 
 ---
 
-## 🛠️ Technical Skills & Interests
+## 🚀 What I'm Building
 
-*   **AI/ML Frameworks:** PyTorch, JAX, Scikit-Learn, LangChain, Smolagents, Hugging Face Ecosystem, Transformers, Diffusers
-*   **Languages:** Python, TypeScript, C++, Rust (learning), Dart/Flutter
-*   **Web & Cloud:** Next.js, React, Supabase, PostgreSQL, Tailwind CSS, Vercel, Coolify
-*   **Tools & Engines:** Unreal Engine 5, Unity, Godot, Isaac Sim, Blender
-*   **Focus Areas:** Generative 3D/Audio, AI Agents, MCP, Digital Accessibility (CPWA), XR/VR, Game Dev
+| Project | Description | Stack | Live |
+|:---|:---|:---|:---|
+| [**Kynda Coffee**](https://github.com/Jpalmer95/kynda-coffee) | Next-gen e-commerce for my specialty coffee roastery. PWA, AI Design Studio, Stripe/Square/Printful. | Next.js 16 · Supabase · Stripe · PWA | [☕ Live](https://kynda.167.99.125.127.sslip.io) |
+| [**GetFreeQuotes**](https://github.com/Jpalmer95/GetFreeQuote-UpWork-) | AI-powered marketplace for estimates & bids across any industry. | Next.js 16 · Supabase · AI Agents | [🤖 Live](https://quotes.167.99.125.127.sslip.io) |
+| [**MenuMetrics**](https://github.com/Jpalmer95/MenuMetrics) | Recipe costing, inventory tracking, and AI strategy for hospitality. | React · Drizzle · PostgreSQL · Express | [📊 Live](https://menu.167.99.125.127.sslip.io) |
+| [**SynapseJourney**](https://github.com/Jpalmer95/SynapseJourney) | Open-source adaptive learning platform with AI-generated courses. | Vite · React · Drizzle · WebGPU TTS | [🧠 Live](https://synapse.167.99.125.127.sslip.io) |
+| [**ForgeDNA**](https://github.com/Jpalmer95/ForgeDNA) | AI game asset pipeline with MCP server, 17-agent harness, Godot adapter. | Python · Gradio · JSON Schema · MCP | [🎮 HF Space](https://huggingface.co/spaces/jkorstad/forgedna-hub) |
+| [**SuperSonic**](https://github.com/Jpalmer95/SuperSonic) | Immersive WebXR VR music game with spatial audio. | Three.js · WebXR · Web Audio API | — |
 
 ---
 
-## 🏆 Professional Highlights
+## 🛠 Tech Stack
 
-> "Invented a novel secure PIN entry method for touch-screen interfaces, enabling independent use for unsighted users across global payment systems." — *Visa*
+**AI & ML:** PyTorch · LangChain · Smolagents · Hugging Face · JAX (learning) · Deep RL  
+**Full-Stack:** Next.js 16 · React · TypeScript · Supabase · Drizzle · Node.js · Tailwind  
+**Game & 3D:** Godot · Unreal Engine 5 · Unity · Three.js · WebXR · Isaac Sim  
+**Accessibility:** WCAG 2.1 AA · CPWA · ARIA · Screen Readers · VPDS  
+**Infra:** Docker · PM2 · Traefik · PostgreSQL · Linux · GitHub Actions
 
-*   **Visa:** Automated auditing and remediation processes using AI for large-scale code analysis and configuration management.
-*   **Certifications:** CPWA (Certified Professional in Web Accessibility), 20+ AIML certifications
-*   **Entrepreneurship:** Bootstrapped Kynda Coffee from concept to full operations with custom software for inventory and automation.
+---
+
+## 🏆 Key Achievement
+
+> *"Invented a novel secure PIN entry method for touch-screen interfaces, enabling independent use for unsighted users across global payment systems."* — **Visa**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jpalmer95&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpalmer95&layout=compact&theme=dark&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jpalmer95&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Jpalmer95)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpalmer95&layout=compact&theme=radical&hide_border=true)](https://github.com/Jpalmer95)
 
----
-
-## 📫 Contact Information
-
-*   **Website:** [jpalmer95.github.io](https://jpalmer95.github.io/)
-*   **LinkedIn:** [in/jonathankorstad](https://www.linkedin.com/in/jonathankorstad/)
-*   **X (Twitter):** [@JonathanKorstad](https://x.com/JonathanKorstad)
-*   **Hugging Face:** [jkorstad](https://huggingface.co/jkorstad)
-*   **Email:** jpkorstad@gmail.com
-*   **Phone:** (512) 767-5662
+</div>
 
 ---
 
-*Open to collaborations on AI accessibility, generative game development, and open-source education tools.*
+## 🔗 Connect
+
+- **Portfolio:** [jpalmer95.github.io](https://jpalmer95.github.io)
+- **LinkedIn:** [jonathankorstad](https://linkedin.com/in/jonathankorstad)
+- **HuggingFace:** [jkorstad](https://huggingface.co/jkorstad)
+- **Email:** [jpkorstad@gmail.com](mailto:jpkorstad@gmail.com)
+- **Business:** [Kynda Coffee](https://www.kyndacoffee.com)
+
+<div align="center">
+
+*Building intelligent systems at the intersection of AI, accessibility, and real-world business.*
+
+</div>

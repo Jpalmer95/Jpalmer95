@@ -2,7 +2,7 @@
 
 🌐 **Website:** [jpalmer95.github.io](https://jpalmer95.github.io/)
 
-**Senior Accessibility Analyst & AI Engineer | CPWA | Entrepreneur**
+**Senior Accessibility Analyst | AI Engineer | Entrepreneur**
 
 I am a results-driven AI Engineer with expertise in developing scalable AI agents and bridging the gap between digital accessibility and artificial intelligence. My work focuses on building intelligent systems using deep reinforcement learning and frameworks like LangChain and Smolagents to streamline operations and resolve complex queries.
 

@@ -22,7 +22,7 @@
 | [**MenuMetrics**](https://github.com/Jpalmer95/MenuMetrics) | Recipe costing, inventory tracking, and AI strategy for hospitality. | React · Drizzle · PostgreSQL · Express | [📊 Live](https://menu.167.99.125.127.sslip.io) |
 | [**SynapseJourney**](https://github.com/Jpalmer95/SynapseJourney) | Open-source adaptive learning platform with AI-generated courses. | Vite · React · Drizzle · WebGPU TTS | [🧠 Live](https://synapse.167.99.125.127.sslip.io) |
 | [**ForgeDNA**](https://github.com/Jpalmer95/ForgeDNA) | AI game asset pipeline with MCP server, 17-agent harness, Godot adapter. | Python · Gradio · JSON Schema · MCP | [🎮 HF Space](https://huggingface.co/spaces/jkorstad/forgedna-hub) |
-| [**SuperSonic**](https://github.com/Jpalmer95/SuperSonic) | Immersive WebXR VR music game with spatial audio. | Three.js · WebXR · Web Audio API | — |
+| [**SuperSonic**](https://github.com/Jpalmer95/SuperSonic) | Immersive WebXR VR flight game with spatial audio. | Three.js · WebXR · Web Audio API | — |
 
 ---
 

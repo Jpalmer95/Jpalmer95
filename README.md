@@ -19,8 +19,8 @@
 |:---|:---|:---|:---|
 | [**Kynda Coffee**](https://github.com/Jpalmer95/kynda-coffee) | Next-gen e-commerce for my specialty coffee roastery. PWA, AI Design Studio, Stripe/Square/Printful. | Next.js 16 · Supabase · Stripe · PWA | [☕ Live](https://kynda.167.99.125.127.sslip.io) |
 | [**GetFreeQuotes**](https://github.com/Jpalmer95/GetFreeQuote-UpWork-) | AI-powered marketplace for estimates & bids across any industry. | Next.js 16 · Supabase · AI Agents | [🤖 Live](https://quotes.167.99.125.127.sslip.io) |
-| [**MenuMetrics**](https://github.com/Jpalmer95/MenuMetrics) | Recipe costing, inventory tracking, and AI strategy for hospitality. | React · Drizzle · PostgreSQL · Express | [📊 Live](https://menu.167.99.125.127.sslip.io) |
-| [**SynapseJourney**](https://github.com/Jpalmer95/SynapseJourney) | Open-source adaptive learning platform with AI-generated courses. | Vite · React · Drizzle · WebGPU TTS | [🧠 Live](https://synapse.167.99.125.127.sslip.io) |
+| [**MenuMetrics**](https://github.com/Jpalmer95/MenuMetrics) | Recipe costing, inventory tracking, and AI strategy for hospitality. | React · Drizzle · PostgreSQL · Express | [📊 Live](https://menumetrics.org) |
+| [**SynapseJourney**](https://github.com/Jpalmer95/SynapseJourney) | Open-source adaptive learning platform with AI-generated courses. | Vite · React · Drizzle · WebGPU TTS | [🧠 Live](https://synapsejourney.org) |
 | [**ForgeDNA**](https://github.com/Jpalmer95/ForgeDNA) | AI game asset pipeline with MCP server, 17-agent harness, Godot adapter. | Python · Gradio · JSON Schema · MCP | [🎮 HF Space](https://huggingface.co/spaces/jkorstad/forgedna-hub) |
 | [**SuperSonic**](https://github.com/Jpalmer95/SuperSonic) | Immersive WebXR VR flight game with spatial audio. | Three.js · WebXR · Web Audio API | — |
 

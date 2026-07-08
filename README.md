@@ -17,7 +17,7 @@
 
 | Project | Description | Stack | Live |
 |:---|:---|:---|:---|
-| [**Kynda Coffee**](https://github.com/Jpalmer95/kynda-coffee) | Next-gen e-commerce for my specialty coffee roastery. PWA, AI Design Studio, Stripe/Square/Printful. | Next.js 16 · Supabase · Stripe · PWA | [☕ Live](https://kynda.167.99.125.127.sslip.io) |
+| [**Kynda Coffee**](https://github.com/Jpalmer95/kynda-coffee) | Next-gen e-commerce for my specialty coffee roastery. PWA, AI Design Studio, Stripe/Square/Printful. | Next.js 16 · Supabase · Stripe · PWA | [☕ Live](https://kyndacoffee.com) |
 | [**GetFreeQuotes**](https://github.com/Jpalmer95/GetFreeQuote-UpWork-) | AI-powered marketplace for estimates & bids across any industry. | Next.js 16 · Supabase · AI Agents | [🤖 Live](https://quotes.167.99.125.127.sslip.io) |
 | [**MenuMetrics**](https://github.com/Jpalmer95/MenuMetrics) | Recipe costing, inventory tracking, and AI strategy for hospitality. | React · Drizzle · PostgreSQL · Express | [📊 Live](https://menumetrics.org) |
 | [**SynapseJourney**](https://github.com/Jpalmer95/SynapseJourney) | Open-source adaptive learning platform with AI-generated courses. | Vite · React · Drizzle · WebGPU TTS | [🧠 Live](https://synapsejourney.org) |

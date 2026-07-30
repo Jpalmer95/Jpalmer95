@@ -4,7 +4,7 @@
 ### Senior Accessibility Analyst & AI Engineer @ Visa | Founder @ Kynda Coffee
 
 [![Website](https://img.shields.io/badge/Portfolio-jpalmer95.github.io-8b5cf6?style=flat-square&logo=github)](https://jpalmer95.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathankorstad-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonathankorstad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathankorstad-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jkorstad)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-jkorstad-ffbd59?style=flat-square&logo=huggingface)](https://huggingface.co/jkorstad)
 
 **Austin, TX** · CPWA Certified · Post Grad AI/ML @ UT Austin
@@ -56,7 +56,7 @@
 ## 🔗 Connect
 
 - **Portfolio:** [jpalmer95.github.io](https://jpalmer95.github.io)
-- **LinkedIn:** [jonathankorstad](https://linkedin.com/in/jonathankorstad)
+- **LinkedIn:** [jonathankorstad](https://linkedin.com/in/jkorstad)
 - **HuggingFace:** [jkorstad](https://huggingface.co/jkorstad)
 - **Email:** [jpkorstad@gmail.com](mailto:jpkorstad@gmail.com)
 - **Business:** [Kynda Coffee](https://www.kyndacoffee.com)
